@@ -1,0 +1,95 @@
+css ref:								Action taken:
+------------------------------------------------------------------------------------------------
+
+.wrapper .nav li a             			Removed font-weight: 100 !important;
+
+.wrapper .nav li.rightnav a.first		Removed font-weight: 100 !important;
+
+.wrapper .nav li.rightnav a.last		Removed font-weight: 100;
+
+.wrapper #pill li.leftnav a				Removed font-weight: 100 !important;
+
+.wrapper #pill li.rightnav a 			Removed font-weight: 100 !important;
+	
+h3 										Removed font-weight:300;
+
+h3.floated								Removed font-weight:300;
+
+#sidebar .snav li a 					Removed font-weight:300;
+
+.edit-nav label 						Removed font-weight: 100;
+
+sup										Removed font-weight: 100 !important;
+
+label span.right						Removed font-weight: 100 !important;
+
+label span.right a:link,				
+label span.right a:visited				Removed font-weight: 100 !important;
+
+label span.right a:focus,				
+label span.right a:hover				Removed font-weight: 100 !important;
+
+p.backuplink a 							Removed whole entry
+
+a.cancel:hover   						Removed font-weight: 100;
+
+a.cancel:link, 							Removed font-weight: 100;
+a.cancel:visited 
+
+#footer a:link, 						
+#footer a:visited 						Removed font-weight: 100;
+
+#sidebar .snav li.upload				Removed font-weight: 100;
+
+body#index 								Changed value to - background: #272C34;
+
+#index #maincontent .main,				
+#resetpassword #maincontent .main       Changed value to - width: 315px; background: #383737;
+
+#resetpassword form input.text,			
+#index form input.text					Changed value to - width: 297px;
+
+#index p.cta a,
+#resetpassword p.cta a  				Removed whole entry
+
+#createfolder							Removed font-weight: 100;
+
+#edit #dropdown h6						Removed font-weight: 100;
+
+#edit #dropdown li a:link, 				
+#edit #dropdown li a:visited,
+#edit #dropdown li a:hover				Removed font-weight: 100;
+
+#edit .wrapper .nav li a.pages, 
+#pages .wrapper .nav li a.pages, 
+#menu-manager .wrapper .nav li a.pages, 
+#plugins .wrapper .nav li a.plugins, 
+#settings .wrapper .nav li a.settings, 
+#components .wrapper .nav li a.theme, 
+#theme .wrapper .nav li a.theme, 
+#sitemap .wrapper .nav li a.theme, 
+#theme-edit .wrapper .nav li a.theme, 
+#navigation .wrapper .nav li a.theme, 
+#upload .wrapper .nav li a.files, 
+#image .wrapper .nav li a.files, 
+#backups .wrapper .nav li a.backups, 
+#support .wrapper .nav li a.support, 
+#log .wrapper .nav li a.support, 
+#health-check .wrapper .nav li a.support, 
+#backup-edit .wrapper .nav li a.backups, 
+#archive .wrapper .nav li a.backups, 
+#load .wrapper .pages li a.pages, 
+#load .wrapper .plugins li a.plugins, 
+#load .wrapper .settings li a.settings, 
+#load .wrapper .theme li a.theme, 
+#load .wrapper .files li a.files, 
+#load .wrapper .backups li a.backups, 
+#load.wrapper .support li a.support, 
+#load .wrapper .nav li a.current, 
+#loadtab .wrapper .nav li a.current 	Removed font-weight: 300;
+
+.wrapper .nav li a 						Added font-weight: bold !important
+
+
+
+
